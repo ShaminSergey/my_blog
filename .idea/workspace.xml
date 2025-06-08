@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="834ea308-881c-4bdf-924b-6ec1c527333d" name="Changes" comment="up -&gt; add + del + edit">
-      <change afterPath="$PROJECT_DIR$/static/img.png" afterDir="false" />
+    <list default="true" id="834ea308-881c-4bdf-924b-6ec1c527333d" name="Changes" comment="up -&gt; about and index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,13 +116,22 @@
       <option name="project" value="LOCAL" />
       <updated>1748890884873</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="up -&gt; about and index">
+      <option name="closed" value="true" />
+      <created>1748977895980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748977895980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
     <MESSAGE value="up -&gt; add + del + edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="up -&gt; add + del + edit" />
+    <MESSAGE value="up -&gt; about and index" />
+    <option name="LAST_COMMIT_MESSAGE" value="up -&gt; about and index" />
   </component>
 </project>
